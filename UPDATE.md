@@ -212,5 +212,5 @@ The goal of this rebuild is not just higher recovery performance, but:
 * Vectorized statistical computation
 
 ---
-#UndergraduateResearch
+
 
